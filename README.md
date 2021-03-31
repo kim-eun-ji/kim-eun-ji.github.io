@@ -1,20 +1,25 @@
-# Hydejack Starter Kit
+# [my github blog](https://kim-eun-ji.github.io/)
+---
+* 노션에서 작성된 글을 옮기는 용도
+* 프로젝트 정리
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+## 수정 이력
+---
+* 2021.03.30 생성
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## 수정예정
+---
+* 노션 글 옮길때 문제점 정리
+* 레이아웃 이미지 선택, tinypng
+* 카테고리, 태그 정리
+* posts 구성 레이아웃
+* 하단 푸터 컨텐츠
+* hello 페이지 컨텐츠
+* 댓글기능
+* 검색엔진 / ga 설정
+* 애드센스?
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+### 사용한 테마 - Hydejack Starter Kit
+---
+* A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
