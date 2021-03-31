@@ -1,14 +1,11 @@
 # [my github blog](https://kim-eun-ji.github.io/)
----
 * 노션에서 작성된 글을 옮기는 용도
 * 프로젝트 정리
 
 ## 수정 이력
----
 * 2021.03.30 생성
 
 ## 수정예정
----
 * 노션 글 옮길때 문제점 정리
 * 레이아웃 이미지 선택, tinypng
 * 카테고리, 태그 정리
@@ -20,6 +17,5 @@
 * 애드센스?
 
 ### 사용한 테마 - Hydejack Starter Kit
----
 * A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
