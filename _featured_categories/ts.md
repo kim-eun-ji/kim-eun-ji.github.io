@@ -3,24 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Study
+title: TypeScript
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: study
+slug: TypeScript
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  notion에서 작성된 글입니다.  
-  
-  [API](https://kim-eun-ji.github.io/api/)
-  [TypeScript](https://kim-eun-ji.github.io/ts/)
-  [Python](https://kim-eun-ji.github.io/python/)
-  [mysql](https://kim-eun-ji.github.io/mysql/)
-  [형상관리](https://kim-eun-ji.github.io/git/)
-  [알고리즘공부](https://kim-eun-ji.github.io/algorithm/)
-  [미분류](https://kim-eun-ji.github.io/undefined/)
-  
-  
+  notion에서 작성된 글입니다. TypeScript에 대한 게시글을 모았습니다.
+
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
