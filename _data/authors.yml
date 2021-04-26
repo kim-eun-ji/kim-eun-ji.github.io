@@ -9,7 +9,8 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     공부하며 작성하는 게시글이기에 부족함이 있을 수 있습니다.     
-    발견 즉시 수정하겠습니다.
+    발견 즉시 수정하겠습니다.     
+    [TIL](https://kim-eun-ji.github.io/TIL/){:target="_blank"}
 
   # This photo will be used in the about section
   picture:
