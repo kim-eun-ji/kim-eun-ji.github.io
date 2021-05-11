@@ -28,4 +28,3 @@
 ### 로컬실행
 
 `bundle exec jekyll serve`
-
