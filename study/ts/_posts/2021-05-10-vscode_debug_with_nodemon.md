@@ -1,6 +1,6 @@
 ---
 layout: post
-title: study
+title: vscode 디버깅 with nodemon
 categories: [study, ts]
 tags: [study, ts]
 image: /assets/img/study/ts/vscode_debug_with_nodemon/logo.png
