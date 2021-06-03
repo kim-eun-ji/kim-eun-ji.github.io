@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://kim-eun-ji.github.io/sitemap.xml
