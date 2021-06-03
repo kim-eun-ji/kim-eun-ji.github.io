@@ -2,7 +2,7 @@
 layout: post
 title: study
 categories: [study, ts]
-tags:       [study, ts]
+tags: [study, ts]
 image: /assets/img/study/ts/vscode_debug_with_nodemon/logo.png
 description: >
   vscode에서 nodemon으로 실행중인 프로세스(로컬서버)를 디버깅하기 위한 설정을 한다.
@@ -12,7 +12,6 @@ invert_sidebar: false
 # vscode 디버깅 with nodemon
 
 nodemon으로 로컬 서버를 돌리면서 브레이크 포인트를 찍으면 바로바로 확인 가능하도록 설정해본다.
-
 
 ## before launch.json
 
@@ -67,7 +66,7 @@ nodemon으로 로컬 서버를 돌리면서 브레이크 포인트를 찍으면 
 {
   "version": "0.2.0",
   "configurations": [
-// 추가된 부분 start
+    // 추가된 부분 start
     {
       "name": "프로세서에 연결", // 이름은 본인 취향껏 바꾸기
       "processId": "${command:PickProcess}",
@@ -75,7 +74,7 @@ nodemon으로 로컬 서버를 돌리면서 브레이크 포인트를 찍으면 
       "skipFiles": ["<node_internals>/**"],
       "type": "pwa-node"
     },
-// 추가된 부분 end
+    // 추가된 부분 end
     {
       "type": "node",
       "request": "launch",
@@ -89,8 +88,15 @@ nodemon으로 로컬 서버를 돌리면서 브레이크 포인트를 찍으면 
 }
 ```
 
+---
+
+{:style="margin-top:5rem"}
+
+- 🔗 참고 URL
+  - [https://nerv2000.tistory.com/105](https://nerv2000.tistory.com/105)
+
+{:style="margin-top:5rem"}
 
 ---
-{:style="margin-top:5rem"}
-* 🔗 참고 URL
-	* [https://nerv2000.tistory.com/105](https://nerv2000.tistory.com/105)
+
+<script src="https://utteranc.es/client.js" repo="kim-eun-ji/blog-comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
