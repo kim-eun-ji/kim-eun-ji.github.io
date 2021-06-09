@@ -83,6 +83,8 @@ module.exports = {
 - 🔗 참고 URL
   - [https://github.com/vuejs/vuepress/issues/2713](https://github.com/vuejs/vuepress/issues/2713)
 
-{:style="margin-top:2rem"}
+{:style="margin-top:5rem"}
 
 ---
+
+<script src="https://utteranc.es/client.js" repo="kim-eun-ji/blog-comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async></script>
